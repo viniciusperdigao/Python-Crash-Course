@@ -37,3 +37,4 @@ first_owned = motorcycles.pop(0)
 motorcycles = ['honda', 'yamaha', 'suzuki', 'ducati']
 print(motorcycles)
 motorcycles.remove('ducati')
+
