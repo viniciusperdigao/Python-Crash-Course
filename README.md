@@ -12,18 +12,9 @@ Meu foco é documentar meu aprendizado para que outras pessoas possam aprender �
 Testando Sync. novamente
 # Índice
 
-
-teste
-ok.
-
-teste.
-teste
 =======
-Data
 
-
-## Capítulo 1
 
 ## Capítulo 2
 
-Abacate
+## Capítulo 3
