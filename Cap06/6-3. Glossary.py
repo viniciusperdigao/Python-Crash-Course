@@ -16,7 +16,8 @@ metodos = {
             'sum()':'Método para somar.',
             'avg()':'Tirar Média',
             'min()':'Valor Mínimo',
-            'max()':'Valor Máximo'
+            'max()':'Valor Máximo',
+            'print()':'Saida dados'
             }
 
 for metodo, valor in metodos.items():
